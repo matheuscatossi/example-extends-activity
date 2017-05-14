@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">example-extends-activity</string>
+    <string name="setting_example">Settings</string>
+    <string name="btn_example">Second Activity</string>
 </resources>
